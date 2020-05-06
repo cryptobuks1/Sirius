@@ -1,4 +1,5 @@
-<img src="https://swisschain.io/images/sirius.svg" alt="Sirius" width="200"/>
+<img src="https://swisschain.io/images/swisschain-logo.svg" alt="Sirius" width="10%"/>
+<img src="https://swisschain.io/images/sirius.svg" alt="Sirius" width="20%"/>
 
 Sirius enables you to be connected to over 14+ blockchains via built-in open source API
 
