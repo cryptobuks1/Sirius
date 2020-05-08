@@ -44,3 +44,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 - [Sirius SDK](https://github.com/swisschain/Sirius.Sdk)
 - [Sirius SDK Crypto](https://github.com/swisschain/Sirius.Sdk.Crypto)
 - [Sirius SDK Integrations](https://github.com/swisschain/Sirius.Sdk.Integrations)
+
+### Tools
+
+- [Crypto CLI](https://github.com/swisschain/Sirius.Tools.Crypto)
