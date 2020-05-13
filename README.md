@@ -15,7 +15,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 
 ### Infrastructure
 
-- [Kubernetes](https://github.com/swisschain/kubernetes-sirius)
+- [Kubernetes](https://github.com/swisschain/sirius-kubernetes)
 
 ### Services
 
