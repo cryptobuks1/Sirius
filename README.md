@@ -7,6 +7,10 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 
 - [API documentation](https://swisschainsirius.docs.apiary.io/#/introduction).
 
+## Jira
+
+- [Board](https://swisschain.atlassian.net/jira/software/projects/SIR/boards/6)
+
 ## Repositories
 
 ### Applications
