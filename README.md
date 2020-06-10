@@ -24,7 +24,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 ### Services
 
 | Service | Dev build and publish | Master build | Release |
-| ------------- |-----|
+| ------------- |-----|-----|-----|
 | [User-facing API](https://github.com/swisschain/Sirius.Api) | ![dev build](https://github.com/swisschain/Sirius.Api/workflows/workflows/CI%20dev%20build/badge.svg) | ![Validate master](https://github.com/swisschain/Sirius.Api/workflows/Validate%20master/badge.svg) | ![Release Service](https://github.com/swisschain/Sirius.Api/workflows/Release%20Service/badge.svg) |
 | [Brokerage](https://github.com/swisschain/Sirius.Brokerage) | ![dev build](https://github.com/swisschain/Sirius.Brokerage/workflows/workflows/CI%20dev%20build/badge.svg) | ![Validate master](https://github.com/swisschain/Sirius.Brokerage/workflows/Validate%20master/badge.svg) | ![Release Service](https://github.com/swisschain/Sirius.Brokerage/workflows/Release%20Service/badge.svg) |
 | [Wallet](https://github.com/swisschain/Sirius.Wallet) | ![dev build](https://github.com/swisschain/Sirius.Wallet/workflows/workflows/CI%20dev%20build/badge.svg) | ![Validate master](https://github.com/swisschain/Sirius.Wallet/workflows/Validate%20master/badge.svg) | ![Release Service](https://github.com/swisschain/Sirius.Wallet/workflows/Release%20Service/badge.svg) |
