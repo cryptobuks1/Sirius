@@ -13,7 +13,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 
 ## Repositories
 
-### Applications
+### User-facing applications
 
 - [Sirius wallet mobile app](https://github.com/swisschain/SiriusWalletApp)
 
