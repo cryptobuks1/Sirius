@@ -42,6 +42,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 | ------------- |-----|-----|-----|
 | [Bitcoin](https://github.com/swisschain/Sirius.Integrations.Bitcoin) | ![Dev build](https://github.com/swisschain/Sirius.Integrations.Bitcoin/workflows/CI%20dev%20build/badge.svg) | ![Validate master](https://github.com/swisschain/Sirius.Integrations.Bitcoin/workflows/Validate%20master/badge.svg) | ![Release Service](https://github.com/swisschain/Sirius.Integrations.Bitcoin/workflows/Release%20Service/badge.svg) |
 | [Ethereum](https://github.com/swisschain/Sirius.Integrations.Ethereum) | ![Dev build](https://github.com/swisschain/Sirius.Integrations.Ethereum/workflows/CI%20dev%20build/badge.svg) | ![Validate master](https://github.com/swisschain/Sirius.Integrations.Ethereum/workflows/Validate%20master/badge.svg) | ![Release Service](https://github.com/swisschain/Sirius.Integrations.Ethereum/workflows/Release%20Service/badge.svg) |
+| [Stellar](https://github.com/swisschain/Sirius.Integrations.Stellar) | ![Dev build](https://github.com/swisschain/Sirius.Integrations.Stellar/workflows/CI%20dev%20build/badge.svg) | ![Validate master](https://github.com/swisschain/Sirius.Integrations.Stellar/workflows/Validate%20master/badge.svg) | ![Release Service](https://github.com/swisschain/Sirius.Integrations.Stellar/workflows/Release%20Service/badge.svg) |
 
 ### Project templates
 
