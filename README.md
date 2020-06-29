@@ -16,6 +16,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 ### User-facing applications
 
 - [Sirius wallet mobile app](https://github.com/swisschain/SiriusWalletApp)
+- [Sirius Vault Key Keeper mobile app](https://github.com/swisschain/Sirius.Vault.KeyKeeperApp)
 
 ### Infrastructure
 
