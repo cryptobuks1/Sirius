@@ -67,3 +67,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 | Tool | CI status |
 | ------------- |-----|
 | [Crypto CLI](https://github.com/swisschain/Sirius.Tools.Crypto) | ![Validate commit](https://github.com/swisschain/Sirius.Tools.Crypto/workflows/Validate%20commit/badge.svg) |
+
+## Environments
+
+* [Test](environments/test/readme.md)
