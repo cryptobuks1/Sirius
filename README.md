@@ -5,7 +5,7 @@ Sirius enables you to be connected to over 14+ blockchains via built-in open sou
 
 ## Documentation
 
-- [API documentation](https://swisschainsirius.docs.apiary.io/#/introduction).
+- [API documentation](https://swisschain.github.io/Sirius.Api.Docs/#sirius-brokerage-api).
 
 ## Examples
 
